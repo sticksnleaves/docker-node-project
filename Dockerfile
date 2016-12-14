@@ -4,6 +4,6 @@ MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV APP_HOME /usr/src/app
 
-RUN npm install npm@latest -g
+RUN curl -L https://www.npmjs.com/install.sh | sh
 
 WORKDIR $APP_HOME
