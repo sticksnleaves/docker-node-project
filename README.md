@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
 * [`7.3.0`, `7.3`, `latest` (7.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ddf1a3b4a8d6957f4a90917315aac99b6bedeeb4/Dockerfile)
+* [`7.2.1`, `7.2` (7.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/9fe09edc42027a51f633c87a33c6497c2c8fccb6/Dockerfile)
 * [`6.9.3`, `6.9` (6.9/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/cec74d572662a45418bdea5837468c7630b2c24f/Dockerfile)
 
 # What is this image?
