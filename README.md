@@ -1,10 +1,10 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`7.5.9`, `7.5`, `latest` (7.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/commit/f4e6b70eb6dfab42de5f2b43b8dde3f0cbaf53ff)
+* [`7.5.0`, `7.5`, `latest` (7.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/f4e6b70eb6dfab42de5f2b43b8dde3f0cbaf53ff/Dockerfile)
 * [`7.4.0`, `7.4` (7.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/31c18935a845fe83558ec575a21867ffb5f00d57/Dockerfile)
 * [`7.3.0`, `7.3`, (7.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ddf1a3b4a8d6957f4a90917315aac99b6bedeeb4/Dockerfile)
 * [`7.2.1`, `7.2` (7.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/9fe09edc42027a51f633c87a33c6497c2c8fccb6/Dockerfile)
-* [`6.9.3`, `6.9` (6.9/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/cec74d572662a45418bdea5837468c7630b2c24f/Dockerfile)
+* [`6.9.5`, `6.9` (6.9/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a51068e76c0786dc341caa9ff2a2dafc4046d5f7/Dockerfile)
 
 # What is this image?
 
