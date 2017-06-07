@@ -4,7 +4,7 @@ MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV APP_HOME /usr/src/app
 
-RUN npm install -g npm@latest
+RUN curl -L https://www.npmjs.com/install.sh | sh
 
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
 
