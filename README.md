@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`8.5.0`, `8.5`, `latest` (8.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/54b4efe78650166cf6a050a406c259b21d2e650b/Dockerfile)
+* [`8.6.0`, `8.6`, `latest` (8.6/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a0e5ba8c812f59f56b9eddb1a97cbda2d9d861e1/Dockerfile)
+* [`8.5.0`, `8.5` (8.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/54b4efe78650166cf6a050a406c259b21d2e650b/Dockerfile)
 * [`8.4.0`, `8.4` (8.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/cbb252513c9199e318fb67e3dbc01150cc3f0253/Dockerfile)
 * [`8.3.0`, `8.3` (8.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/c5d4e451d7d3b6fc720862bc67023a67fb3cb306/Dockerfile)
 * [`8.2.1`, `8.2` (8.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ad219baabe1f7f1d9a0481020ddafa9d32727660/Dockerfile)
