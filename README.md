@@ -19,6 +19,7 @@
 * [`7.4.0`, `7.4` (7.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/31c18935a845fe83558ec575a21867ffb5f00d57/Dockerfile)
 * [`7.3.0`, `7.3`, (7.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ddf1a3b4a8d6957f4a90917315aac99b6bedeeb4/Dockerfile)
 * [`7.2.1`, `7.2` (7.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/9fe09edc42027a51f633c87a33c6497c2c8fccb6/Dockerfile)
+* [`6.12.3`, `6.12` (6.12/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/8cf536753e504db963fad8a6879a703b51ef6974/Dockerfile)
 * [`6.9.5`, `6.9` (6.9/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a51068e76c0786dc341caa9ff2a2dafc4046d5f7/Dockerfile)
 
 # What is this image?
