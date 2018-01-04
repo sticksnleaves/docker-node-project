@@ -1,4 +1,4 @@
-FROM node:8.8.1
+FROM node:9.3.0
 
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
