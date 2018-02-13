@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`9.5.0`, `9.5`, `latest` (9.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/70c9457035ac17ae9094806d7ca54eb78efb7d31/Dockerfile)
+* [`9.5.0`, `9.5`, `latest` (9.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/abc72d6ea6e28a91d08a0d0e8e390d99c754e75a/Dockerfile)
 * [`9.4.0`, `9.4` (9.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/82dad7661de76709faae64564c362a2fe0501758/Dockerfile)
 * [`9.3.0`, `9.3` (9.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ee88e71a10df0dcd9a8752302ee5b12ff95b4fc9/Dockerfile)
 * [`9.2.1`, `9.2` (9.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/28124b1951e9e4d0ef262095cae2af20eeebcb49/Dockerfile)

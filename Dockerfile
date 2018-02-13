@@ -4,7 +4,11 @@ MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV APP_HOME /usr/src/app
 
-RUN curl -L https://www.npmjs.com/install.sh | sh
+RUN curl -L https://api.github.com/repos/npm/npm/tarball/latest -o npm.tar.gz
+RUN tar xzf npm.tar.gz
+RUN npm-npm-*/scripts/install.sh
+RUN rm -f npm.tar.gz
+RUN rm -rf npm-npm-*/
 
 RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
 
