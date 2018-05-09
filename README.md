@@ -1,8 +1,9 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`10.0.0`, `10.0`, `latest` (10.0/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/86470a404d6fc1b4bb40176b41edab61cb79629a/Dockerfile)
+* [`10.1.0`, `10.1`, `latest` (10.1/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/413a751f3b94cc17f56ed42182995bdcca91e7fe/Dockerfile)
+* [`10.0.0`, `10.0` (10.0/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/86470a404d6fc1b4bb40176b41edab61cb79629a/Dockerfile)
 * [`9.11.1`, `9.11` (9.11/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ceb65377654a867b45bbfde4f3932c3c6c807eb7/Dockerfile)
-* [`9.10.1`, `9.10`, `latest` (9.10/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/c730afe1f52ae66a66ed2c4a905086a146217d5a/Dockerfile)
+* [`9.10.1`, `9.10` (9.10/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/c730afe1f52ae66a66ed2c4a905086a146217d5a/Dockerfile)
 * [`9.9.0`, `9.9` (9.9/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/6dca9d7910691f237548acb66d130389fb782519/Dockerfile)
 * [`9.8.0`, `9.8` (9.8/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/7c7bd071e76e648e0c185914898dd10da19ce1a1/Dockerfile)
 * [`9.7.1`, `9.7` (9.7/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/e2423ff7194cf0d5f91c832694c62d3b3a765b61/Dockerfile)
