@@ -23,3 +23,7 @@ RUN apt-get update && \
 RUN apt-get clean
 
 WORKDIR $APP_HOME
+
+COPY entrypoint.sh /usr/local/bin
+
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
