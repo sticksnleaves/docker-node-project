@@ -24,6 +24,6 @@ RUN apt-get clean
 
 WORKDIR $APP_HOME
 
-COPY entrypoint.sh /usr/local/bin
+COPY docker-entrypoint.sh /usr/local/bin
 
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]
