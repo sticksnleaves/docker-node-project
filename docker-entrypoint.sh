@@ -2,4 +2,4 @@
 
 export PATH=$(npm bin):$PATH
 
-$1
+exec "$@"
