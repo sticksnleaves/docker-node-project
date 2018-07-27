@@ -4,9 +4,9 @@ MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV APP_HOME /usr/src/app
 
-RUN curl -L https://api.github.com/repos/npm/npm/tarball/latest -o npm.tar.gz
+RUN curl -L https://api.github.com/repos/npm/cli/tarball/latest -o npm.tar.gz
 RUN tar xzf npm.tar.gz
-RUN npm-npm-*/scripts/install.sh
+RUN npm-cli-*/scripts/install.sh
 RUN rm -f npm.tar.gz
 RUN rm -rf npm-npm-*/
 
