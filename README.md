@@ -1,10 +1,11 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`11.2.0, `11.2`, `latest` (11.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a316090dedac829d26a9dafe1ade062920cc137d/Dockerfile)
-* [`11.1.0, `11.1` (11.1/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/b2d2fcb645eeb3cb2ee420078433301ab05584f1/Dockerfile)
-* [`11.0.0, `11.0` (11.0/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/b2d2fcb645eeb3cb2ee420078433301ab05584f1/Dockerfile)
-* [`10.15.1, `10.15` (10.15/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/5d2b42ca32e06e12418e7264df1964d507c3af3b/Dockerfile)
-* [`10.14.2, `10.14` (10.14/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/34cbf7029c7d45daed49794a2309e42d959aa243/Dockerfile)
+* [`11.3.0`, `11.3`, `latest` (11.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/2d953aa7843e6ed7962c7807d0117a55d8a24913/Dockerfile)
+* [`11.2.0`, `11.2` (11.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a316090dedac829d26a9dafe1ade062920cc137d/Dockerfile)
+* [`11.1.0`, `11.1` (11.1/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/b2d2fcb645eeb3cb2ee420078433301ab05584f1/Dockerfile)
+* [`11.0.0`, `11.0` (11.0/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/b2d2fcb645eeb3cb2ee420078433301ab05584f1/Dockerfile)
+* [`10.15.1`, `10.15` (10.15/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/5d2b42ca32e06e12418e7264df1964d507c3af3b/Dockerfile)
+* [`10.14.2`, `10.14` (10.14/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/34cbf7029c7d45daed49794a2309e42d959aa243/Dockerfile)
 * [`10.13.0`, `10.13` (10.13/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/2eaf3e5a08c70c8b63dab8a748d51afd884a2f72/Dockerfile)
 * [`10.12.0`, `10.12` (10.12/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/ee469cd80672f852fee63c812e16fd8851586a5a/Dockerfile)
 * [`10.11.0`, `10.11` (10.11/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/dcad69d3cc7583c45e69f689e30d3a53402d9afd/Dockerfile)
