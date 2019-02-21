@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`11.4.0`, `11.4`, `latest` (11.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/3d9d937bf5d638ba1fa5bdf96a632863728c730c/Dockerfile)
+* [`11.5.0`, `11.5`, `latest` (11.5/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/1eb81aec8224c3e412ca058adb45ea221e4f262a/Dockerfile)
+* [`11.4.0`, `11.4` (11.4/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/3d9d937bf5d638ba1fa5bdf96a632863728c730c/Dockerfile)
 * [`11.3.0`, `11.3` (11.3/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/2d953aa7843e6ed7962c7807d0117a55d8a24913/Dockerfile)
 * [`11.2.0`, `11.2` (11.2/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/a316090dedac829d26a9dafe1ade062920cc137d/Dockerfile)
 * [`11.1.0`, `11.1` (11.1/Dockerfile)](https://github.com/sticksnleaves/docker-node-project/blob/b2d2fcb645eeb3cb2ee420078433301ab05584f1/Dockerfile)
