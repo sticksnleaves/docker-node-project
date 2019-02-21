@@ -1,26 +1,21 @@
-FROM node:10.9.0
+FROM node:10.10.0-alpine
 
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV APP_HOME /usr/src/app
 
-RUN curl -L https://api.github.com/repos/npm/cli/tarball/latest -o npm.tar.gz
-RUN tar xzf npm.tar.gz
-RUN npm-cli-*/scripts/install.sh
-RUN rm -f npm.tar.gz
-RUN rm -rf npm-npm-*/
+RUN apk add --no-cache --virtual .build-deps curl && \
+    apk add --no-cache --virtual .build-deps gnupg
 
-RUN curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+RUN curl -L https://github.com/npm/cli/archive/latest.tar.gz -o npm.tar.gz && \
+    tar xzf npm.tar.gz && \
+    cli-latest/scripts/install.sh && \
+    rm -f npm.tar.gz && \
+    rm -rf cli-latest
 
-RUN apt-get update && \
-  apt-get install apt-transport-https
+RUN curl -o- -L https://yarnpkg.com/install.sh | ash
 
-RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
-
-RUN apt-get update && \
-  apt-get install yarn
-
-RUN apt-get clean
+RUN apk del .build-deps
 
 WORKDIR $APP_HOME
 
